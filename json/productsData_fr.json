@@ -1,0 +1,136 @@
+{   
+    "labels": {
+      "menuTitle": "Menu",
+      "salads": "Salades et Entrées",
+      "meat": "Plats de Viande",
+      "seafood": "Plats de Fruits de Mer",
+      "desserts": "Desserts",
+      "coffee": "Café",
+      "juice": "Jus"
+    },
+    "staticTexts": {
+      "welcome": "Bienvenue chez Sekkoya!",
+      "explore": "Découvrez notre menu ci-dessous.",
+      "viewMenuIn": "Voir le menu en :"
+    },
+    "salads": [
+      {
+        "img": "./img/1.png",
+        "title": "Salade épicée à l'avocat et aux mûres",
+        "description": "Avocat, mûres fraîches, légumes mélangés, flocons de chili, oignon rouge, vinaigrette au citron vert, graines toastées",
+        "price": "£7"
+      },
+      {
+        "img": "./img/2.png",
+        "title": "Salade verte fraîche à l'huile de truffe",
+        "description": "Épinards bébé, roquette, concombre, pomme verte, avocat, pignons de pin grillés, vinaigrette à l'huile de truffe",
+        "price": "£5"
+      },
+      {
+        "img": "./img/3.png",
+        "title": "Crevettes au gingembre sur feuilles de laitue",
+        "description": "Crevettes marinées, gingembre frais, ail, jus de lime, flocons de chili, servies sur des feuilles de laitue croquantes",
+        "price": "£10"
+      }
+    ],
+    "meat": [
+      {
+        "img": "./img/4.png",
+        "title": "Crabe tendre du chef",
+        "description": "Chair de crabe délicatement cuite, glaçage au beurre d'agrumes, herbes fraîches, servie avec une touche de chili et de zeste de citron",
+        "price": "£15"
+      },
+      {
+        "img": "./img/5.png",
+        "title": "Jiaozi aux crevettes et sauce à l'ail",
+        "description": "Raviolis faits maison farcis de crevettes, gingembre et ciboules, servis avec une sauce à l'ail-soja riche et une touche d'huile de sésame",
+        "price": "£6"
+      },
+      {
+        "img": "./img/6.png",
+        "title": "Burger géant avec bœuf grillé",
+        "description": "Steak haché de bœuf grillé, fromage cheddar, laitue croquante, tomate, cornichons, oignon rouge, sauce maison, servi dans un pain brioché toasté",
+        "price": "£5"
+      }
+    ],
+    "seafood": [
+      {
+        "img": "./img/7.png",
+        "title": "Crevettes géantes piquantes à la thaïlandaise",
+        "description": "Crevettes géantes sautées avec du piment thaï, de l'ail, de la citronnelle et des feuilles de lime, terminées par un glaçage épicé à la tamarin",
+        "price": "£11"
+      },
+      {
+        "img": "./img/8.png",
+        "title": "Rouleaux à l'anguille et salade verte au parmesan",
+        "description": "Rouleaux de sushi remplis d'anguille tendre, concombre et avocat, servis avec une salade verte fraîche au parmesan râpé et une vinaigrette légère",
+        "price": "£6"
+      },
+      {
+        "img": "./img/9.png",
+        "title": "Canapés au saumon et crème d'avocat",
+        "description": "Saumon fumé sur des crackers croustillants, garni de crème d'avocat, accompagné d'aneth frais et d'un trait de citron",
+        "price": "£6"
+      }
+    ],
+    "desserts": [
+      {
+        "img": "./img/10.png",
+        "title": "Tarte au chocolat maison d'Edy",
+        "description": "Croûte au chocolat, crème glacée à la vanille, glaçage au chocolat noir, cacahuètes concassées, chantilly, pépites de chocolat",
+        "price": "£7"
+      },
+      {
+        "img": "./img/11.png",
+        "title": "Truffes au chocolat amer",
+        "description": "Chocolat noir riche, crème épaisse, poudre de cacao, touche d'espresso, saupoudré de cacao",
+        "price": "£8"
+      },
+      {
+        "img": "./img/12.png",
+        "title": "Roulé à la carotte avec crème pâtissière",
+        "description": "Génoise à la carotte moelleuse, crème pâtissière vanillée, roulée et légèrement saupoudrée de sucre glace",
+        "price": "£4"
+      }
+    ],
+    "coffee": [
+      {
+        "img": "./img/13.png",
+        "title": "Café noir classique avec lait chaud",
+        "description": "Café noir fraîchement préparé, servi avec du lait chaud vapeur à côté",
+        "price": "£2"
+      },
+      {
+        "img": "./img/14.png",
+        "title": "Cappuccino avec sirop d'érable et noix de coco",
+        "description": "Espresso, lait chauffé, une touche de sirop d'érable, surmonté de lait moussé et de flocons de noix de coco grillés",
+        "price": "£3"
+      },
+      {
+        "img": "./img/15.png",
+        "title": "Latte avec crème fouettée et chocolat",
+        "description": "Espresso doux, lait chauffé, surmonté de crème fouettée et de copeaux de chocolat",
+        "price": "£4"
+      }
+    ],
+    "juice": [
+      {
+        "img": "./img/16.png",
+        "title": "Limonade avec fruit de la passion et jus de pomme",
+        "description": "Jus de citron frais, purée de fruit de la passion, jus de pomme, servi sur glace",
+        "price": "£7"
+      },
+      {
+        "img": "./img/17.png",
+        "title": "Limonade à la noix de coco avec crème et menthe",
+        "description": "Limonade à la noix de coco rafraîchissante, surmontée d'une touche de crème et garnie de feuilles de menthe fraîches",
+        "price": "£4"
+      },
+      {
+        "img": "./img/18.png",
+        "title": "Jus de céleri avec gingembre et citron",
+        "description": "Jus de céleri fraîchement pressé, infusé de citron zesté et d'une pointe de gingembre",
+        "price": "£3"
+      }
+    ]
+}

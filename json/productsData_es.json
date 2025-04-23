@@ -1,0 +1,136 @@
+{
+    "labels": {
+      "menuTitle": "Menú",
+      "salads": "Ensaladas y Aperitivos",
+      "meat": "Platos de Carne",
+      "seafood": "Platos de Mariscos",
+      "desserts": "Postres",
+      "coffee": "Café",
+      "juice": "Jugo"
+    },
+    "staticTexts": {
+      "welcome": "¡Bienvenido a Sekkoya!",
+      "explore": "Explora nuestro menú a continuación.",
+      "viewMenuIn": "Ver menú en:"
+    },
+    "salads": [
+      {
+        "img": "./img/1.png",
+        "title": "Ensalada picante con aguacate y mora",
+        "description": "Aguacate, moras frescas, hojas verdes mixtas, hojuelas de chile, cebolla roja, aderezo de lima, semillas tostadas",
+        "price": "£7"
+      },
+      {
+        "img": "./img/2.png",
+        "title": "Ensalada verde fresca con aceite de trufa",
+        "description": "Espinaca bebé, rúcula, pepino, manzana verde, aguacate, piñones tostados, vinagreta de aceite de trufa",
+        "price": "£5"
+      },
+      {
+        "img": "./img/3.png",
+        "title": "Camarones con jengibre sobre hojas de lechuga",
+        "description": "Camarones marinados, jengibre fresco, ajo, jugo de lima, hojuelas de chile, servidos sobre hojas crujientes de lechuga",
+        "price": "£10"
+      }
+    ],
+    "meat": [
+      {
+        "img": "./img/4.png",
+        "title": "Cangrejo tierno del chef",
+        "description": "Carne de cangrejo delicadamente cocinada, glaseado de mantequilla cítrica, hierbas frescas, servido con un toque de chile y ralladura de limón",
+        "price": "£15"
+      },
+      {
+        "img": "./img/5.png",
+        "title": "Jiaozi con camarones y aderezo de ajo",
+        "description": "Dumplings hechos a mano rellenos de camarones, jengibre y cebollinos, servidos con un rico aderezo de ajo y salsa de soja y un toque de aceite de sésamo",
+        "price": "£6"
+      },
+      {
+        "img": "./img/6.png",
+        "title": "Hamburguesa gigante con carne de res a la parrilla",
+        "description": "Carne de res a la parrilla, queso cheddar, lechuga crujiente, tomate, pepinillos, cebolla roja, salsa de la casa, servida en un pan brioche tostado",
+        "price": "£5"
+      }
+    ],
+    "seafood": [
+      {
+        "img": "./img/7.png",
+        "title": "Camarones gigantes picantes al estilo tailandés",
+        "description": "Camarones jumbo salteados con chile tailandés, ajo, hierba de limón y hojas de lima, terminados con un glaseado picante de tamarindo",
+        "price": "£11"
+      },
+      {
+        "img": "./img/8.png",
+        "title": "Rollos con anguila y ensalada verde con parmesano",
+        "description": "Rollos de sushi rellenos de anguila tierna, pepino y aguacate, servidos junto a una ensalada verde fresca con parmesano rallado y una vinagreta ligera",
+        "price": "£6"
+      },
+      {
+        "img": "./img/9.png",
+        "title": "Canapés con salmón y crema de aguacate",
+        "description": "Salmón ahumado sobre galletas crujientes, cubierto con crema de aguacate, decorado con eneldo fresco y un toque de limón",
+        "price": "£6"
+      }
+    ],
+    "desserts": [
+      {
+        "img": "./img/10.png",
+        "title": "Tarta Edy de chocolate casera",
+        "description": "Base de chocolate, helado de vainilla cremoso, glaseado de chocolate negro, cacahuetes triturados, crema batida, trozos de chocolate",
+        "price": "£7"
+      },
+      {
+        "img": "./img/11.png",
+        "title": "Trufas de chocolate amargo",
+        "description": "Rico chocolate negro, crema espesa, cacao en polvo, toque de espresso, espolvoreado con cacao",
+        "price": "£8"
+      },
+      {
+        "img": "./img/12.png",
+        "title": "Rollo de zanahoria con crema pastelera",
+        "description": "Bizcocho de zanahoria húmedo, suave crema pastelera de vainilla, enrollado y ligeramente espolvoreado con azúcar glas",
+        "price": "£4"
+      }
+    ],
+    "coffee": [
+      {
+        "img": "./img/13.png",
+        "title": "Café negro clásico con leche caliente",
+        "description": "Café negro recién preparado servido con leche caliente al lado",
+        "price": "£2"
+      },
+      {
+        "img": "./img/14.png",
+        "title": "Cappuccino con jarabe de arce y coco",
+        "description": "Expreso, leche vaporizada, un toque de jarabe de arce, cubierto con leche espumada y copos de coco tostado",
+        "price": "£3"
+      },
+      {
+        "img": "./img/15.png",
+        "title": "Latte con crema batida y chocolate",
+        "description": "Expreso suave, leche vaporizada, cubierto con crema batida y virutas de chocolate",
+        "price": "£4"
+      }
+    ],
+    "juice": [
+      {
+        "img": "./img/16.png",
+        "title": "Limonada con maracuyá y jugo de manzana",
+        "description": "Jugo fresco de limón, puré de maracuyá, jugo de manzana, servido sobre hielo",
+        "price": "£7"
+      },
+      {
+        "img": "./img/17.png",
+        "title": "Limonada de coco con crema y menta",
+        "description": "Limonada refrescante de coco, cubierta con una espiral de crema y decorada con hojas frescas de menta",
+        "price": "£4"
+      },
+      {
+        "img": "./img/18.png",
+        "title": "Jugo de apio con jengibre y limón",
+        "description": "Jugo de apio recién exprimido, infusionado con limón y un toque de jengibre",
+        "price": "£3"
+      }
+    ]
+  }  

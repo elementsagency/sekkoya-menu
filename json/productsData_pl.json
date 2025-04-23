@@ -1,0 +1,136 @@
+{   
+    "labels": {
+      "menuTitle": "Menu",
+      "salads": "Sałatki i Przystawki",
+      "meat": "Dania Mięsne",
+      "seafood": "Dania Z Owoców Morza",
+      "desserts": "Desery",
+      "coffee": "Kawa",
+      "juice": "Soki"
+    },
+    "staticTexts": {
+      "welcome": "Witamy w Sekkoya!",
+      "explore": "Poznaj nasze menu poniżej.",
+      "viewMenuIn": "Zobacz menu w języku:"
+    },
+    "salads": [
+      {
+        "img": "./img/1.png",
+        "title": "Pikantna sałatka z awokado i jeżynami",
+        "description": "Awokado, świeże jeżyny, mieszane sałaty, płatki chili, czerwona cebula, dressing limonkowy, prażone nasiona",
+        "price": "£7"
+      },
+      {
+        "img": "./img/2.png",
+        "title": "Świeża sałatka zielona z oliwą truflową",
+        "description": "Baby szpinak, rukola, ogórek, zielone jabłko, awokado, prażone orzeszki piniowe, vinaigrette z oliwą truflową",
+        "price": "£5"
+      },
+      {
+        "img": "./img/3.png",
+        "title": "Krewetki z imbirem na liściach sałaty",
+        "description": "Marynowane krewetki, świeży imbir, czosnek, sok z limonki, płatki chili, podane na chrupiących liściach sałaty",
+        "price": "£10"
+      }
+    ],
+    "meat": [
+      {
+        "img": "./img/4.png",
+        "title": "Delikatne mięso kraba szefa kuchni",
+        "description": "Delikatnie ugotowane mięso kraba, glazura z masła cytrynowego, świeże zioła, podane z odrobiną chili i skórką cytrynową",
+        "price": "£15"
+      },
+      {
+        "img": "./img/5.png",
+        "title": "Jiaozi z krewetkami i dressingiem czosnkowym",
+        "description": "Ręcznie robione pierożki wypełnione krewetkami, imbirem i szczypiorkiem, podane z bogatym dressingiem czosnkowo-sojowym i odrobiną oleju sezamowego",
+        "price": "£6"
+      },
+      {
+        "img": "./img/6.png",
+        "title": "Ogromny burger z grillowaną wołowiną",
+        "description": "Grillowana wołowa kotlet, ser cheddar, chrupiąca sałata, pomidor, ogórek, czerwona cebula, sos domowy, podane w grillowanej bułce brioche",
+        "price": "£5"
+      }
+    ],
+    "seafood": [
+      {
+        "img": "./img/7.png",
+        "title": "Thai pikantne krewetki w rozmiarze king-size",
+        "description": "Jumbo krewetki podsmażane z tajską chili, czosnkiem, trawą cytrynową i liśćmi limonki, wykończone ostrą glazurą tamaryndową",
+        "price": "£11"
+      },
+      {
+        "img": "./img/8.png",
+        "title": "Rolki z węgorzem i zielona sałatka z parmezanem",
+        "description": "Sushi rolki wypełnione delikatnym węgorzem, ogórkiem i awokado, podane obok świeżej zielonej sałatki z wiórkami parmezanu i lekkim vinaigrette",
+        "price": "£6"
+      },
+      {
+        "img": "./img/9.png",
+        "title": "Canapés z łososiem i kremem z awokado",
+        "description": "Wędzony łosoś na chrupiących krakersach, na wierzchu kremowy krem z awokado, udekorowany świeżym koperkiem i kroplą cytryny",
+        "price": "£6"
+      }
+    ],
+    "desserts": [
+      {
+        "img": "./img/10.png",
+        "title": "Domowy torcik czekoladowy Edy's",
+        "description": "Czekoladowe ciasto, kremowa waniliowa lody, ciemna czekoladowa glazura, pokruszone orzeszki ziemne, bita śmietana, kawałki czekolady",
+        "price": "£7"
+      },
+      {
+        "img": "./img/11.png",
+        "title": "Gorzka czekolada trufle",
+        "description": "Bogata ciemna czekolada, śmietana, kakao, odrobina espresso, posypane kakao",
+        "price": "£8"
+      },
+      {
+        "img": "./img/12.png",
+        "title": "Ciasto marchewkowe z kremem cukierniczym",
+        "description": "Wilgotne ciasto marchewkowe, gładki waniliowy krem cukierniczy, zwinięte i lekko posypane cukrem pudrem",
+        "price": "£4"
+      }
+    ],
+    "coffee": [
+      {
+        "img": "./img/13.png",
+        "title": "Klasyczna czarna kawa z gorącym mlekiem",
+        "description": "Świeżo parzona czarna kawa podana z gorącym mlekiem na boku",
+        "price": "£2"
+      },
+      {
+        "img": "./img/14.png",
+        "title": "Cappuccino z syropem klonowym i kokosem",
+        "description": "Espresso, spienione mleko, odrobina syropu klonowego, na wierzchu spienione mleko i prażony kokos",
+        "price": "£3"
+      },
+      {
+        "img": "./img/15.png",
+        "title": "Latte z bitą śmietaną i czekoladą",
+        "description": "Gładkie espresso, spienione mleko, na wierzchu bita śmietana i wiórki czekolady",
+        "price": "£4"
+      }
+    ],
+    "juice": [
+      {
+        "img": "./img/16.png",
+        "title": "Lemoniada z marakują i sokiem jabłkowym",
+        "description": "Świeży sok z cytryny, puree z marakui, sok jabłkowy, podawane na lodzie",
+        "price": "£7"
+      },
+      {
+        "img": "./img/17.png",
+        "title": "Lemoniada kokosowa z kremem i miętą",
+        "description": "Orzeźwiająca lemoniada kokosowa, na wierzchu kremowy śmietanka i świeże liście mięty",
+        "price": "£4"
+      },
+      {
+        "img": "./img/18.png",
+        "title": "Sok selerowy z imbirem i cytryną",
+        "description": "Świeżo wyciśnięty sok z selera, z dodatkiem cytryny i ostrego imbiru",
+        "price": "£3"
+      }
+    ]
+}

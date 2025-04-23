@@ -1,0 +1,136 @@
+{   
+    "labels": {
+      "menuTitle": "Menu",
+      "salads": "Salads and Appetizers",
+      "meat": "Meat Dishes",
+      "seafood": "Seafood Dishes",
+      "desserts": "Desserts",
+      "coffee": "Coffee",
+      "juice": "Juice"
+    },
+    "staticTexts": {
+      "welcome": "Welcome to Sekkoya!",
+      "explore": "Explore our menu below.",
+      "viewMenuIn": "View menu in:"
+    },
+    "salads": [
+      {
+        "img": "./img/1.png",
+        "title": "Spicy salad with avocado and blackberry",
+        "description": "Avocado, fresh blackberries, mixed greens, chili flakes, red onion, lime dressing, toasted seeds",
+        "price": "£7"
+      },
+      {
+        "img": "./img/2.png",
+        "title": "Fresh Green Salad with Truffle Oil",
+        "description": "Baby spinach, arugula, cucumber, green apple, avocado, toasted pine nuts, truffle oil vinaigrette",
+        "price": "£5"
+      },
+      {
+        "img": "./img/3.png",
+        "title": "Shrimps with Ginger on Lettuce Leaves",
+        "description": "Marinated shrimp, fresh ginger, garlic, lime juice, chili flakes, served on crisp lettuce leaves",
+        "price": "£10"
+      }
+    ],
+    "meat": [
+      {
+        "img": "./img/4.png",
+        "title": "Chef’s Tender Crab",
+        "description": "Delicately cooked crab meat, citrus butter glaze, fresh herbs, served with a hint of chili and lemon zest",
+        "price": "£15"
+      },
+      {
+        "img": "./img/5.png",
+        "title": "Jiaozi with Shrimps & Garlic Dressing",
+        "description": "Handmade dumplings filled with shrimp, ginger, and chives, served with a rich garlic-soy dressing and a touch of sesame oil",
+        "price": "£6"
+      },
+      {
+        "img": "./img/6.png",
+        "title": "Giant Burger with Grilled Beef",
+        "description": "Grilled beef patty, cheddar cheese, crispy lettuce, tomato, pickles, red onion, house sauce, served in a toasted brioche bun",
+        "price": "£5"
+      }
+    ],
+    "seafood": [
+      {
+        "img": "./img/7.png",
+        "title": "Thai Piquant King-Size Shrimps",
+        "description": "Jumbo shrimps sautéed with Thai chili, garlic, lemongrass, and lime leaves, finished with a spicy tamarind glaze",
+        "price": "£11"
+      },
+      {
+        "img": "./img/8.png",
+        "title": "Rolls with Eel & Green Salad with Parmesan",
+        "description": "Sushi rolls filled with tender eel, cucumber, and avocado, served alongside a fresh green salad with shaved parmesan and a light vinaigrette",
+        "price": "£6"
+      },
+      {
+        "img": "./img/9.png",
+        "title": "Canapés with Salmon & Avocado Cream",
+        "description": "Smoked salmon atop crispy crackers, topped with creamy avocado spread, garnished with fresh dill and a squeeze of lemon",
+        "price": "£6"
+      }
+    ],
+    "desserts": [
+      {
+        "img": "./img/10.png",
+        "title": "Homemade Chocolate Edy's Pie",
+        "description": "Chocolate crust, creamy vanilla ice cream, dark chocolate glaze, crushed peanuts, whipped cream, chocolate chips",
+        "price": "£7"
+      },
+      {
+        "img": "./img/11.png",
+        "title": "Bittersweet Chocolate Truffles",
+        "description": "Rich dark chocolate, heavy cream, cocoa powder, touch of espresso, dusted with cacao",
+        "price": "£8"
+      },
+      {
+        "img": "./img/12.png",
+        "title": "Carrot Roll with Pastry Cream",
+        "description": "Moist carrot sponge, smooth vanilla pastry cream, rolled and lightly dusted with icing sugar",
+        "price": "£4"
+      }
+    ],
+    "coffee": [
+      {
+        "img": "./img/13.png",
+        "title": "Classical Black Coffee with Hot Milk",
+        "description": "Freshly brewed black coffee served with steamed hot milk on the side",
+        "price": "£2"
+      },
+      {
+        "img": "./img/14.png",
+        "title": "Cappuccino with Maple Syrup and Coconut",
+        "description": "Espresso, steamed milk, a touch of maple syrup, topped with frothed milk and toasted coconut flakes",
+        "price": "£3"
+      },
+      {
+        "img": "./img/15.png",
+        "title": "Latte with Whipped Cream and Chocolate",
+        "description": "Smooth espresso, steamed milk, topped with whipped cream and chocolate shavings",
+        "price": "£4"
+      }
+    ],
+    "juice": [
+      {
+        "img": "./img/16.png",
+        "title": "Lemonade with Passion Fruit and Apple Juice",
+        "description": "Fresh lemon juice, passion fruit purée, apple juice, served over ice",
+        "price": "£7"
+      },
+      {
+        "img": "./img/17.png",
+        "title": "Coconut Lemonade with Cream and Mint",
+        "description": "Refreshing coconut lemonade, topped with a swirl of cream and garnished with fresh mint leaves",
+        "price": "£4"
+      },
+      {
+        "img": "./img/18.png",
+        "title": "Celery Juice with Ginger and Lemon",
+        "description": "Freshly pressed celery juice, infused with zesty lemon and a kick of ginger",
+        "price": "£3"
+      }
+    ]
+  }  

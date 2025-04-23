@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+html{
+	scroll-behavior: smooth;
+    height: 100%;
+}
+body{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;  
+    width: 100%;
+    height: 100%;
+    background: #f5f5f5;
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
+section{
+    padding: 25px 0;
+}
+/* hero */
+
+#hero{
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#hero .container{
+    width: 100%;
+    height: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/bg.jpg) no-repeat center;
+    background-size: cover;
+}
+@media (min-width: 992px) {
+    #hero{
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    #hero .container{
+        border-radius: 25px;
+    }
+}
+#hero .container img{
+    width: 300px;
+}
+#welcome-text{
+    font-size: 30px;
+    font-weight: 400;
+    display: inline-block;
+    margin: 50px 0 10px;
+    text-align: center;
+}
+#explore-text{
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
+.language{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.language p{
+    margin: 0;
+    padding-right: 10px;
+}
+.language-switcher select {
+    width: 100%;
+    padding-right: 30px; /* Space for custom arrow */
+    background: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"%3E%3Cpath d="M1 4l7 7 7-7" fill="none" stroke="white" stroke-width="2" /%3E%3C/svg%3E') no-repeat right 10px center;
+    background-size: 12px 12px; /* Size of the arrow */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}  
+
+/* hero */
+
+.card{
+    text-align: center;
+    width: 360px;
+    padding: 0;
+    border: 0;
+    margin: 20px auto;
+}
+.card img{
+    width: 360px;
+    height: 360px;
+}
+.card-description{
+    background-color: white;
+    padding: 30px;
+    padding-top: 0;
+}
+.title{
+    font-size: 22px;
+    padding: 10px 0;
+    margin: 0;
+    font-weight: 600;
+}
+.description{
+    margin: 0;
+}
+.price{
+    font-size: 16px;
+    padding: 10px 0;
+    margin: 0;
+}
+.section-title{
+    font-size: 34px;
+    padding: 10px 0;
+    text-align: center;
+}
+.menu {
+    overflow: auto;
+    white-space: nowrap;
+    text-align: center;
+    padding: 10px 0px;
+}
+.menu a {
+    display: inline-block;
+    font-size: 18px;
+    color: black !important;
+    font-weight: 500;
+    padding: 0px 5px 2px 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.menu a.active {
+    border-bottom: 2px solid black;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
